@@ -8,3 +8,5 @@
 
  platform : 
    eclipse
+
+at first read this pdf " Calculator_Yara_Mohsen.pdf "
